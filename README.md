@@ -1,4 +1,4 @@
-# zkSync: scaling and privacy engine for Ethereum
+## zkSync: scaling and privacy engine for Ethereum
 
 [![Logo](zkSyncLogo.svg)](https://zksync.io/)
 
